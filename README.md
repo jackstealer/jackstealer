@@ -37,90 +37,10 @@ I treat every project like a startup idea 🚀
 ![](https://nirzak-streak-stats.vercel.app/?user=jackstealer&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackstealer&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/3">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/3" alt="Medium post 4"  />
-  </a>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jackstealer&theme=merko&no-frame=false&no-bg=false&margin-w=4)
