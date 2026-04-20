@@ -27,7 +27,6 @@ Software Developer & AI/ML Enthusiast focused on building real-world projects.
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills & Technologies
 
 <div align="center">
-## 🛠️ Tech Stack
 
 ### Languages
 Python • C • C++ • JavaScript
