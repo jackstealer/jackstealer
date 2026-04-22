@@ -36,7 +36,7 @@ NumPy • Pandas • Matplotlib • Scikit-learn
 
 ### Tools
 Git • GitHub • VS Code • Docker (Learning)
-
+</div>
 ---
 
 ## 📊 GitHub Stats
