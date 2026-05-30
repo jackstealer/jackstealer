@@ -15,7 +15,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/megumi-jujutsu-kaisen.gif">
 
 Software Developer & AI/ML Enthusiast focused on building real-world projects.
 
@@ -26,7 +26,7 @@ Software Developer & AI/ML Enthusiast focused on building real-world projects.
 - 🎯 Goal: Become industry-ready ML Engineer
 
 
----
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills & Technologies
 
@@ -41,7 +41,7 @@ NumPy • Pandas • Matplotlib • Scikit-learn
 ### Tools
 Git • GitHub • VS Code • Docker (Learning)
 </div>
----
+
 
 ## 📊 GitHub Stats
 
