@@ -25,21 +25,41 @@ Software Developer & AI/ML Enthusiast focused on building real-world projects.
 - 🤝 Open to collaboration on AI/ML projects
 - 🎯 Goal: Become industry-ready ML Engineer
 
+<div align="center">
 
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+
+
+</div>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills & Technologies
 
 <div align="center">
 
-### Languages
-Python • C • C++ • JavaScript
 
-### ML & Data
-NumPy • Pandas • Matplotlib • Scikit-learn
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
 
-### Tools
-Git • GitHub • VS Code • Docker (Learning)
+<br>
+
+### 🤖 AI / ML
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,scikitlearn,tensorflow,pytorch" />
+
+<br>
+
+### 🌐 Web & Databases
+<img src="https://skillicons.dev/icons?i=html,css,mysql" />
+
+<br>
+
+### 🛠 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+
+<br>
+
+### 📚 Currently Learning
+<img src="https://skillicons.dev/icons?i=aws,kubernetes" />
 </div>
 
 
@@ -49,10 +69,35 @@ Git • GitHub • VS Code • Docker (Learning)
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jackstealer&theme=tokyonight&hide_border=true)
 
----
+<div align="center">
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackstealer&theme=merko)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackstealer&theme=react-dark&hide_border=true" width="95%"/>
 
----
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/23-56-18-870_512.gif" width="700">
+
+</div>
+
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/jackstealer">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
