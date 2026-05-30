@@ -1,3 +1,4 @@
+
 <img src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/name.svg">
 
 <!-- <div align="center">
@@ -12,6 +13,15 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 </div>
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI%2FML+Enthusiast;Building+Real-World+Projects;Learning+Generative+AI;Exploring+AI+Agents+%26+Automation;Future+ML+Engineer" />
+
+</div>
+
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750547-2d9a2b6b-d02f-45ca-9d8b-8f7b6b6d5b4f.gif" width="100%"> </div>
 
 ## 🌌 About Me
 
@@ -64,6 +74,7 @@ Goals:
 
 </div>
 
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750547-2d9a2b6b-d02f-45ca-9d8b-8f7b6b6d5b4f.gif" width="100%"> </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills & Technologies
 
@@ -94,6 +105,8 @@ Goals:
 <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
 </div>
 
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750547-2d9a2b6b-d02f-45ca-9d8b-8f7b6b6d5b4f.gif" width="100%"> </div>
+
 
 ## 📊 GitHub Stats
 
@@ -102,6 +115,8 @@ Goals:
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jackstealer&theme=tokyonight&hide_border=true)
 
 <div align="center">
+
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750547-2d9a2b6b-d02f-45ca-9d8b-8f7b6b6d5b4f.gif" width="100%"> </div>
 
 ## 📈 GitHub Activity Graph
 
@@ -118,6 +133,8 @@ Goals:
 
 <div align="center">
 
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750547-2d9a2b6b-d02f-45ca-9d8b-8f7b6b6d5b4f.gif" width="100%"> </div>
+
 ## 🌐 Connect With Me
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -133,3 +150,4 @@ Goals:
 </a>
 
 </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/> </div>
