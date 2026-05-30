@@ -52,9 +52,3 @@ Git • GitHub • VS Code • Docker (Learning)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackstealer&theme=merko)
 
 ---
-
-## 🔥 Featured Projects
-
-- ❤️ Heart Disease Prediction (ML Project)
-- 🏠 Smart Home Automation (IoT)
-- 🤖 AI & Machine Learning Experiments
