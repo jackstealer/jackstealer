@@ -137,17 +137,21 @@ Goals:
 
 ## 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<div align="center">
+
+<a href="https://www.linkedin.com/in/atul-raj-gautam-04b170238/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:jackstealer690@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://github.com/jackstealer">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+</div>
 
 </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/> </div>
