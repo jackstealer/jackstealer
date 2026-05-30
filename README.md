@@ -13,18 +13,50 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> About Me
+## 🌌 About Me
 
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/megumi-jujutsu-kaisen.gif">
+<img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/megumi-jujutsu-kaisen.gif">
 
-Software Developer & AI/ML Enthusiast focused on building real-world projects.
+```yaml
+Name: Atul Raj Gautam
+Role: AI/ML Enthusiast & Developer
 
-- 🔭 Currently working on: Real-world Machine Learning projects
-- 🌱 Learning: Machine Learning & Generative AI
-- 🧠 Strengthening ML foundations through hands-on implementation
-- 🤝 Open to collaboration on AI/ML projects
-- 🎯 Goal: Become industry-ready ML Engineer
+Currently:
+  - Building real-world ML projects
+  - Learning Generative AI & Deep Learning
+  - Exploring AI Agents & Automation
 
+Tech Stack:
+  - Python
+  - C / C++
+  - JavaScript
+  - NumPy / Pandas / Scikit-learn
+
+Tools:
+  - Git & GitHub
+  - VS Code
+  - Docker
+  - Linux
+
+Goals:
+  - Become industry-ready ML Engineer
+  - Build impactful AI applications
+  - Contribute to Open Source
+```
+
+<br>
+
+<div align="left">
+
+🌱 Passionate about turning ideas into intelligent systems  
+🚀 Focused on AI, Machine Learning & real-world development  
+🧠 Continuously improving DSA, Statistics & problem-solving  
+⚡ Love anime aesthetics, late-night coding & futuristic tech  
+🎯 Dreaming big and building consistently every single day
+
+</div>
+
+---
 <div align="center">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
