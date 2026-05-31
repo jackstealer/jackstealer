@@ -27,6 +27,7 @@
 
 <img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/megumi-jujutsu-kaisen.gif">
 
+
 ```yaml
 Name: Atul Raj Gautam
 Role: AI/ML Enthusiast & Developer
@@ -65,7 +66,7 @@ Goals:
 🎯 Dreaming big and building consistently every single day
 
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 ---
 <div align="center">
 
@@ -107,7 +108,7 @@ Goals:
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750547-2d9a2b6b-d02f-45ca-9d8b-8f7b6b6d5b4f.gif" width="100%"> </div>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jackstealer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
