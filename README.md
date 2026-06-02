@@ -30,7 +30,7 @@
 
 ```yaml
 Name: Atul Raj Gautam
-Role: AI/ML Enthusiast & Developer
+Role: AI/ML Developer
 
 Currently:
   - Building real-world ML projects
