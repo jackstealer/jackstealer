@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI%2FML+Enthusiast;Building+Real-World+Projects;Learning+Generative+AI;Exploring+AI+Agents+%26+Automation;Future+ML+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Building+Real-World+Projects;Generative+AI;Exploring+AI+Agents+%26+Automation;ML+Engineer" />
 
 </div>
 
