@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/name.svg">
 
 <!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Atul;AI+Engineer+%7C+ML+Enthusiast;Building+Intelligent+Systems;Welcome+to+my+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Atul;AI+ML+Engineer;Building+Intelligent+Systems;Welcome+to+my+Profile!" />
 </div>
 
 <div align="center">
