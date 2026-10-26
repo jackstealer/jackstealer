@@ -114,10 +114,6 @@ Goals:
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750547-2d9a2b6b-d02f-45ca-9d8b-8f7b6b6d5b4f.gif" width="100%"> </div>
 
-## 📈 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackstealer&theme=react-dark&hide_border=true" width="95%"/>
-
 </div>
 
 <div align="center">
