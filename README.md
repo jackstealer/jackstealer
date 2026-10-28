@@ -111,32 +111,15 @@ From decoding deep-sea DNA with **PyTorch**, to orchestrating **LLM agents**, to
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jackstealer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jackstealer&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=jackstealer&theme=radical&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackstealer&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=A9FEF7" alt="Contribution graph" width="95%" />
+
 
 </div>
-
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"></div>
-
-## 🗺️ Roadmap
-
-- [x] Python, Pandas, NumPy, Scikit-learn, XGBoost
-- [x] Deep learning with PyTorch (DeepSea eDNA AI)
-- [x] Agentic LLM pipelines (Venture Alpha)
-- [x] AWS Cloud Practitioner
-- [ ] Production ML: MLflow, FastAPI, Docker, CI/CD (in progress)
-- [ ] Kubernetes and scalable model deployment
-- [ ] Land a Data Science / ML internship
-- [ ] Contribute to open source
-
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212750547-2d9a2b6b-d02f-45ca-9d8b-8f7b6b6d5b4f.gif" width="100%"></div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/23-56-18-870_512.gif" width="600"></div>
