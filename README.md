@@ -23,29 +23,26 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:7c3aed,100:050505&height=2&section=header" />
 
-<!-- ═══════════════════════════  TERMINAL  ═══════════════════════════ -->
-## `~/whoami`
+<!-- ═══════════════════════════  DELIVERY PIPELINE  ═══════════════════════════ -->
+## 🚀 Delivery pipeline
 
-```console
-atul@jackstealer:~$ whoami
-Atul Raj Gautam — B.Tech CSE (3rd year) · student developer · hackathon regular
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=jackstealer&theme=github-dark" alt="jackstealer hero visual" />
+</p>
 
-atul@jackstealer:~$ cat mission.txt
-I build machine learning systems meant to run in production, not just in notebooks.
+<p align="center"><b>Atul Raj Gautam</b> · ML engineer in the making · B.Tech CSE (3rd year)</p>
 
-atul@jackstealer:~$ ls ./now
-building/   churn-prediction system  →  MLflow · FastAPI · Docker · CI/CD
-learning/   GenAI · agentic workflows · AWS · Kubernetes
-grinding/   DSA & problem solving
+## ⚙️ Operating principles
 
-atul@jackstealer:~$ cat ask-me-about.txt
-ML pipelines · LLM agents · MCP · cloud basics · hackathons
+<pre><code>ROLE         = Data Science / ML · Agentic AI · Full-Stack
+BUILDING     = churn-prediction system → MLflow · FastAPI · Docker · CI/CD
+LEARNING     = GenAI · agentic workflows · AWS · Kubernetes
+GRINDING     = DSA &amp; problem solving
+ASK_ME_ABOUT = ML pipelines · LLM agents · MCP · cloud basics · hackathons
+SEEKING      = Data Science / ML internships   # status: OPEN</code></pre>
 
-atul@jackstealer:~$ echo $LOOKING_FOR
-Data Science / Machine Learning internships  ✦  let's talk
-```
+<p align="center"><i>A model that never leaves the notebook never ships. I build for production.</i></p>
 
-<!-- ═══════════════════════════  AT A GLANCE  ═══════════════════════════ -->
 <table>
 <tr>
 <td width="33%" align="center">
@@ -68,41 +65,52 @@ Data Science / Machine Learning internships  ✦  let's talk
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:7c3aed,100:050505&height=2&section=header" />
 
-<!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
-## `~/stack`
+<!-- ═══════════════════════════  UPTIME  ═══════════════════════════ -->
+## 📡 Uptime in motion
 
-<table>
-<tr>
-<td width="140"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,html,css,mysql&theme=dark&perline=8" /></td>
-</tr>
-<tr>
-<td><b>AI / ML</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/XGBoost-EB5B25?style=flat-square&labelColor=050505" />
-<img src="https://img.shields.io/badge/LightGBM-02A4E0?style=flat-square" />
-<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-191919?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Backend & Web</b></td>
-<td><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,nextjs,nestjs,tailwind,mongodb&theme=dark&perline=9" /></td>
-</tr>
-<tr>
-<td><b>MLOps & Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,git,github,vscode,postman,vercel&theme=dark&perline=10" /></td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=jackstealer&theme=github-dark" alt="jackstealer contribution activity" />
+
+<!-- ── mission control: terminal telemetry + contribution jet ── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=400&color=22C55E&multiline=true&repeat=false&width=520&height=110&lines=%3E+pilot.......+jackstealer;%3E+status......+ONLINE+%E2%97%8F;%3E+mission.....+ship+ML+to+production;%3E+target......+every+green+square+on+the+grid" alt="telemetry" />
+
+<img width="100%" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/assets/space-shooter.gif" alt="space shooter flying my contribution graph" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:7c3aed,100:050505&height=2&section=header" />
+
+<!-- ═══════════════════════════  SIGNALS  ═══════════════════════════ -->
+## 📊 Service signals
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=jackstealer&theme=github-dark" alt="jackstealer stats visual" />
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=jackstealer&hide_border=true&background=050505&ring=7C3AED&fire=C084FC&currStreakNum=F3E8FF&sideNums=F3E8FF&currStreakLabel=C084FC&sideLabels=C4B5FD&dates=8B8B9E&stroke=1A0B2E" />
+<img width="49%" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/profile-summary-card-output/midnight_purple/3-stats.svg" />
+
+</div>
+
+<details>
+<summary><b>🔍 &nbsp;cat ./telemetry --verbose</b> <sub>(click to expand)</sub></summary>
+<br/>
+<div align="center">
+
+<img width="32.5%" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg" />
+<img width="32.5%" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" />
+<img width="32.5%" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/profile-summary-card-output/midnight_purple/4-productive-time.svg" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jackstealer&bg_color=050505&color=c4b5fd&line=7c3aed&point=f3e8ff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" />
+
+</div>
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:7c3aed,100:050505&height=2&section=header" />
 
 <!-- ═══════════════════════════  PROJECTS  ═══════════════════════════ -->
-## `~/featured`
+## 🏗️ Infrastructure shipped
 
 <table>
 <tr>
@@ -204,52 +212,67 @@ Deep learning + ensemble forecasting, **87%+ reported accuracy**, served via Rea
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:7c3aed,100:050505&height=2&section=header" />
 
-<!-- ═══════════════════════════  CERTS  ═══════════════════════════ -->
-## `~/achievements`
+<!-- ═══════════════════════════  TOOLKIT  ═══════════════════════════ -->
+## 🧰 Platform toolkit
 
-<div align="center">
+<p><code>atul@github:~$ toolbox --list</code></p>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=jackstealer&theme=github-dark" alt="jackstealer stack visual" />
+</p>
+
+<table>
+<tr>
+<td width="140"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,html,css,mysql&theme=dark&perline=8" /></td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/XGBoost-EB5B25?style=flat-square&labelColor=050505" />
+<img src="https://img.shields.io/badge/LightGBM-02A4E0?style=flat-square" />
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-191919?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Backend & Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,nextjs,nestjs,tailwind,mongodb&theme=dark&perline=9" /></td>
+</tr>
+<tr>
+<td><b>MLOps & Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,git,github,vscode,postman,vercel&theme=dark&perline=10" /></td>
+</tr>
+</table>
+
+<p align="center">
 <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=050505" />
 <img src="https://img.shields.io/badge/Anthropic-MCP_Certified-c084fc?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=050505" />
 <img src="https://img.shields.io/badge/Hackathons-Participant-7c3aed?style=for-the-badge&logo=devpost&logoColor=white&labelColor=050505" />
-
-</div>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:7c3aed,100:050505&height=2&section=header" />
 
-<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
-## `~/analytics`
-
-<div align="center">
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=jackstealer&hide_border=true&background=050505&ring=7C3AED&fire=C084FC&currStreakNum=F3E8FF&sideNums=F3E8FF&currStreakLabel=C084FC&sideLabels=C4B5FD&dates=8B8B9E&stroke=1A0B2E" />
-<img width="49%" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/profile-summary-card-output/midnight_purple/3-stats.svg" />
-
-<img width="32.5%" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg" />
-<img width="32.5%" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" />
-<img width="32.5%" src="https://raw.githubusercontent.com/jackstealer/jackstealer/main/profile-summary-card-output/midnight_purple/4-productive-time.svg" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jackstealer&bg_color=050505&color=c4b5fd&line=7c3aed&point=f3e8ff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackstealer/jackstealer/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/jackstealer/jackstealer/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
 <!-- ═══════════════════════════  CONNECT  ═══════════════════════════ -->
-<div align="center">
+## 🔗 Keep it moving
 
-### `$ ./connect.sh`
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=jackstealer&theme=github-dark" alt="jackstealer social visual" />
+</p>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/atul-raj-gautam-04b170238/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" /></a>&nbsp;&nbsp;
 <a href="mailto:jackstealer690@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" /></a>&nbsp;&nbsp;
 <a href="https://github.com/jackstealer"><img src="https://skillicons.dev/icons?i=github" height="42" /></a>&nbsp;&nbsp;
 <a href="https://portfolio-murex-eight.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" height="42" /></a>
 
-<sub>⭐ If something here helped you, a star on the repo goes a long way.</sub>
+<sub>⭐ If something here helped you, a star on the repo goes a long way.</sub><br/>
+<sub>Section visuals by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 
 </div>
 
